@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7958b078.chunk.css",
+    "main.js": "/static/js/main.01b3fe82.chunk.js",
+    "main.js.map": "/static/js/main.01b3fe82.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
+    "static/css/2.5544c887.chunk.css": "/static/css/2.5544c887.chunk.css",
+    "static/js/2.c2cb7c81.chunk.js": "/static/js/2.c2cb7c81.chunk.js",
+    "static/js/2.c2cb7c81.chunk.js.map": "/static/js/2.c2cb7c81.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4beaea89840a5dee3919b5b10dca9a5f.js": "/precache-manifest.4beaea89840a5dee3919b5b10dca9a5f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.5544c887.chunk.css.map": "/static/css/2.5544c887.chunk.css.map",
+    "static/css/main.7958b078.chunk.css.map": "/static/css/main.7958b078.chunk.css.map",
+    "static/js/2.c2cb7c81.chunk.js.LICENSE.txt": "/static/js/2.c2cb7c81.chunk.js.LICENSE.txt",
+    "static/media/Instagram.png": "/static/media/Instagram.0b620655.png",
+    "static/media/App.css": "/static/media/Success.1ddd72b5.JPG",
+    "static/media/Twitter.png": "/static/media/Twitter.fdf448aa.png",
+    "static/media/img1.JPG": "/static/media/img1.839d125b.JPG",
+    "static/media/logo2.png": "/static/media/logo2.f8bf1929.png",
+    "static/media/purchase.JPG": "/static/media/purchase.7ad95bbe.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b85ec0.js",
+    "static/css/2.5544c887.chunk.css",
+    "static/js/2.c2cb7c81.chunk.js",
+    "static/css/main.7958b078.chunk.css",
+    "static/js/main.01b3fe82.chunk.js"
+  ]
+}
